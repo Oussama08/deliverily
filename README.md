@@ -1,2 +1,2 @@
 # deliverily
-This project is made during Hackathon ENSA El Jadida
+This project was made during Hackathon ENSA El Jadida
